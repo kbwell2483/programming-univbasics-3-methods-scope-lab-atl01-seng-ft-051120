@@ -15,9 +15,9 @@ def link
 end
 
 def all_phrases
-  puts #{mario}
-  puts #{toadstool}
-  puts #{link}
+  phrase = "It's-a me, Mario!"
+  puts phrase
+  
 end
  
   
