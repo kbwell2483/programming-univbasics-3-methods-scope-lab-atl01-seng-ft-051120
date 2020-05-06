@@ -9,6 +9,6 @@ def toadstool
   puts status
   
 def link
-  status = 'Thank You Mario! But Our Princess Is In Another Castle!'
+  puts 'Thank You Mario! But Our Princess Is In Another Castle!'
   puts status
 end
